@@ -1,0 +1,14 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prototype.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "startMethod1": "node prototypeMethod1.js",
+    "startMethod2": "node prototypeMethod2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
