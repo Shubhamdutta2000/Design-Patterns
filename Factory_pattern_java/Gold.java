@@ -7,7 +7,7 @@ public class Gold implements ICreditCard {
 
     @Override
     public double getLimit() {
-        return 50000.00;
+        return 100000.00;
     }
 
     @Override
